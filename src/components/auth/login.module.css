@@ -1,0 +1,21 @@
+.container {
+  background: #232526;
+  background: -webkit-linear-gradient(to right, #232526, #414345);
+  background: linear-gradient(to right, #232526, #6c6e70);
+  height: 102vh;
+}
+
+.formHeader {
+  background-color: #e52d27;
+
+  border-radius: 15px;
+
+  padding:8px ;
+  font-size: 52px;
+  color: white;
+  margin:0 50px 50px;
+}
+
+.formHeader span {
+  -webkit-text-fill-color: #fff;
+}
